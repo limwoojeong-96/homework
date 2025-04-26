@@ -5,7 +5,7 @@ git push
 ________________________________________________
 npm create vite@latest my-react-app --template react 
 
-cd my-react-app 
+
 
 npm install vite --save-dev
 
